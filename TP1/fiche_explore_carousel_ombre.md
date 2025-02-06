@@ -24,3 +24,5 @@ Finalement le boitier qui relit la console à la lumière est transparent donc s
 ![le boitier avec la lumière fermer](/TP1/image_carousel_ombre/interieur_off.jpg)
 
 ![le boitier avec la lumière ouverte](/TP1/image_carousel_ombre/interieur_on.jpg)
+
+J'ai bien aimer cette exposition car elle te laisse crée votre suit dans les action qui se produise et aussi modifier quelle objets sont sur le carousel.
