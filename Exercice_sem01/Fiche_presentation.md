@@ -2,7 +2,7 @@
 # Gabriel Garceau 
 <br>
 
-![moi](https://github.com/user-attachments/assets/c30a9a4b-6208-4c88-ab42-5169e4bb2a13)
+![moi](/H25_V11_inspirations_GARCEAU/Exercice_sem01/image/moi.JPG)
 
 ## Mon champs d'intérêt dans le multimedia 
 Mon champs d'intérêt dans le multimedia est la modelisation 3D et l'animation.
