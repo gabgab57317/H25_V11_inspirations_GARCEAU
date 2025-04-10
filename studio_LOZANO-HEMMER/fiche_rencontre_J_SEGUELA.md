@@ -36,6 +36,7 @@ Autre œuvre marquante : **Shadow Tuner**, une installation de grande échelle.
 📍 Installée sur une île des **Émirats arabes unis**, l’œuvre a dû faire face à plusieurs défis climatiques :  
 `Sable • Corrosion • Vent`
 
+![image](./image/shadow_tuner.jpg)
 ---
 
 ## 🧾 Bilan personnel  
@@ -50,4 +51,4 @@ Autre œuvre marquante : **Shadow Tuner**, une installation de grande échelle.
 ---
 
 ### 📌 Fait dans le cadre d’une activité culturelle | Mars 2025
-![image](./images/shadow_tuner.jpg)
+
