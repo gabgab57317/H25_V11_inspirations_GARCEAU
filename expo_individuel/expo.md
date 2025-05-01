@@ -14,13 +14,46 @@ Conçue comme une expérience à la fois ludique, émotive et éducative, *La ma
 - **1967 – Expo 67**, vitrine internationale du progrès technologique et de l’ouverture au monde qui a transformé l’image de la ville ;
 - **2020 – La pandémie de COVID-19**, période contemporaine encore fraîche dans les mémoires, traitée sous l’angle des vécus citoyens, de la résilience et de la solidarité.
 
+  ![image](./image_individuel/epoque_etagere_1.jpg)
+  
+---
+  ![image](./image_individuel/epoque_etagere_2.jpg)
+  
+---
+  ![image](./image_individuel/epoque_etagere_3.jpg)
+  
+---
+  ![image](./image_individuel/epoque_etagere_4.jpg)
+  
+---
+  ![image](./image_individuel/old_tv.jpg)
+
+---
 À travers ces arrêts temporels, les visiteurs sont plongés dans un environnement multisensoriel combinant projections vidéo, effets sonores immersifs, jeux de lumière, extraits de témoignages oraux et objets d’époque.
 
 ### Une narration citoyenne et inclusive
 
+![image](./image_individuel/controle_panelle.jpg)
+
+---
+
 Contrairement aux récits historiques souvent centrés sur les grandes figures ou les événements militaires et politiques, le MEM propose ici une lecture résolument citoyenne de l’histoire de Montréal. La machine met en scène la parole de personnes issues de diverses communautés culturelles, sociales et linguistiques. Chaque période historique est racontée à hauteur humaine, à travers des fragments de vie, des souvenirs et des émotions.
 
+---
+![image](./image_individuel/projecteur_1.jpg)
+![image](./image_individuel/porjecteur_2.jpg)
+![image](./image_individuel/speaker_1.jpg)
+![image](./image_individuel/speaker_2.jpg)
+
+---
 Le choix des événements évoqués reflète cette volonté de construire une mémoire collective plurielle. La paix autochtone-française, l’élan moderniste d’Expo 67, ou encore l’isolement vécu lors de la pandémie, sont autant de prismes à travers lesquels Montréal se redéfinit au fil du temps.
+
+---
+![image](./image_individuel/poster_1.jpg)
+![image](./image_individuel/poster_2.jpg)
+![image](./image_individuel/poster_3.jpg)
+
+---
 
 ### Une œuvre muséographique audacieuse
 
