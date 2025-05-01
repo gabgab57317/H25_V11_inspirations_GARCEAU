@@ -49,9 +49,9 @@ Contrairement aux récits historiques souvent centrés sur les grandes figures o
 Le choix des événements évoqués reflète cette volonté de construire une mémoire collective plurielle. La paix autochtone-française, l’élan moderniste d’Expo 67, ou encore l’isolement vécu lors de la pandémie, sont autant de prismes à travers lesquels Montréal se redéfinit au fil du temps.
 
 ---
-![image](./image_individuel/poster_1.jpg)
-![image](./image_individuel/poster_2.jpg)
-![image](./image_individuel/poster_3.jpg)
+![image](./image_individuel/poster_wall_1.jpg)
+![image](./image_individuel/poster_wall_2.jpg)
+![image](./image_individuel/poster_wall_3.jpg)
 
 ---
 
